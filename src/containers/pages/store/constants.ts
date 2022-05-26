@@ -1,0 +1,3 @@
+export const SET_CONTACT = "SET_CONTACT";
+export const SET_NEW_DETAIL = "NEW_DETAIL";
+export const SET_NEW_INFORMATION = "SET_NEW_INFORMATION";

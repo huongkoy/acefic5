@@ -1,0 +1,49 @@
+@font-face {
+    font-family: 'avo';
+    src: url('../../public/fonts/UTM Avo.ttf');
+}
+
+@font-face {
+    font-family: 'avo_bold';
+    src: url('../../public/fonts/UTM AvoBold.ttf');
+}
+
+@font-face {
+    font-family: 'avo_italic';
+    src: url('../../public/fonts/UTM AvoItalic.ttf');
+}
+
+@font-face {
+    font-family: 'avo_bold_italic';
+    src: url('../../public/fonts/UTM AvoBold_Italic.ttf');
+}
+
+@font-face {
+    font-family: 'OpenSansc';
+    src: url('../../public/fonts/OpenSans-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url('../../public/fonts/Montserrat-Italic.ttf');
+}
+
+@font-face {
+    font-family: 'montse';
+    src: url('../../public/fonts/Montserrat-Bold.ttf');
+}
+
+@font-face {
+    font-family: 'OpenSansc-semi';
+    src: url('../../public/fonts/OpenSans-SemiBold.ttf');
+}
+
+@font-face {
+    font-family: 'OpenSansc- bold';
+    src: url('../../public/fonts/OpenSans-Bold.ttf');
+}
+
+@font-face {
+    font-family: 'SFUDaxCondensedExtraBold';
+    src: url('../../public/fonts/SFUDaxCondensedExtraBold.TTF');
+}
